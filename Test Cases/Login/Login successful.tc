@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Logged into the system successfully.</description>
+   <name>Login successful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f818ce99-cccb-4f21-9b87-f4533e19e223</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.usrName</defaultValue>
+      <description></description>
+      <id>576055bd-d6b1-4189-a519-2c383683ac45</id>
+      <masked>false</masked>
+      <name>varUserName</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.pwd</defaultValue>
+      <description></description>
+      <id>0e654294-8656-462f-88b7-191140bd3a71</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Test case to Login into system</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>625cc00f-7507-4636-a488-b02a3fe399cd</testCaseGuid>
+   <variable>
+      <defaultValue>'asd@winjit.com'</defaultValue>
+      <description></description>
+      <id>046a2704-320e-459e-a0f7-5a88c2b2882b</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Winjit@123'</defaultValue>
+      <description></description>
+      <id>0800413a-69b8-45a4-8255-e2552de9d7ec</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

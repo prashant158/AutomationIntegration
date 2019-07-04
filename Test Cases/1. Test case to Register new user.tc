@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Test case to Register new user</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b539ceea-7afe-446a-ba9f-40dd1818eef0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Register User Data/Register User Sample Data')</defaultValue>
+      <description></description>
+      <id>c56ef2b1-c009-4749-863d-1c99334e34b6</id>
+      <masked>false</masked>
+      <name>EmailID</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Register User Data/Register User Sample Data')</defaultValue>
+      <description></description>
+      <id>26941dab-71e6-4bb3-b2d0-084b74a9e550</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Register User Data/Register User Sample Data')</defaultValue>
+      <description></description>
+      <id>e962a154-df54-4e9c-801c-1cb238d60e9f</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
+</TestCaseEntity>
